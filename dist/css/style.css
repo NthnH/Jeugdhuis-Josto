@@ -6,6 +6,12 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+header#carousel {
+  padding: 0;
+}
+nav#mainNav {
+    background-color: rgba(66,66,66,.6);
+}
 .carousel-item {
   height: 65vh;
   min-height: 350px;
